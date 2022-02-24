@@ -1,0 +1,12 @@
+.header{
+    height: 450px;
+    width: 100%;
+    background-image: url(.//img/banner/banner-bg.jpg);
+}
+.bg-head{
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    background-image: url(//img/banner/banner-bg.jpg);
+    
+}
