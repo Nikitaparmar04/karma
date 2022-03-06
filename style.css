@@ -1,3 +1,26 @@
-#menu .nav .nav-item .nav-link{
-    color: black;
+body{
+     margin: 0%;
+     padding: 0%;
 }
+#menu.nav
+.box1{
+    height: 350px;
+    width: 500px;
+    background-color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    
+}
+
+.box2{
+    height: 350px;
+    width: 500px;
+    background-color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+}
+
+ 
+
