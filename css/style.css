@@ -1,1 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    height: 100px;
+    width: 50%;
+    background-color: #2a8996;
+
+}
+.box2{
+    height: 100px;
+    width: 50%;
+    background-color: #2b4436;
+    float: left;
+}
 
